@@ -1,0 +1,10 @@
+.searchbar {
+    margin: 5%;
+    display: flex;
+    gap: 3%;
+}
+
+.searchbar__input {
+    align-content: center;
+    flex: 1 1;
+}
